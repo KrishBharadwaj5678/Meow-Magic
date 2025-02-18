@@ -11,8 +11,6 @@ const options = {
 	}
 };
 
-// let url= "https://api.thecatapi.com/v1/images/search?limit=1&breed_ids=beng&api_key=live_wSbLJ1bfc2wOPHkI3BwwdEnVIbViLWYVUvMG0sxN2E9sfxoDL8VUhZrHPFK2M973";
-
 btn.addEventListener('click',()=>{
     btn.innerText='Loading...';
     generate();
@@ -44,14 +42,4 @@ window.addEventListener('load',()=>{
       }
     }
 )
-
-
-
-
-
-
-
-
-
-
 
