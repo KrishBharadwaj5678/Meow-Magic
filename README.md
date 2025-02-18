@@ -1,6 +1,6 @@
 # Meow Magic 🐱
 
-Meow Magic is a fun and simple website that generates random cat images with a single click. Powered by an API, it delivers adorable feline photos to brighten your day.  
+Meow Magic is a fun and simple website that generates random cat images with a single click. 
 
 ## Features  
 - 🐾 Generates random cat images  
@@ -15,7 +15,7 @@ Meow Magic is a fun and simple website that generates random cat images with a s
 ## Installation & Usage  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/meow-magic.git
+   git clone https://github.com/KrishBharadwaj5678/Meow-Magic.git
    ```
 2. Navigate to the project directory:  
    ```bash
